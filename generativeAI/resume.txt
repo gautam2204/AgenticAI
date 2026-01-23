@@ -1,0 +1,78 @@
+WORK EXPERIENCE Skills
+2021- Current TIAA GBS
+Associate Specialist
+❑ Leading and mentoring QA team members, promoting skill development
+and collaboration.
+❑ Managing defect triage meetings, analyzing defect trends, and ensures
+timely resolution of critical issues.
+❑ Worked on classification model for participant contribution change.
+❑ Building tools and utility to be used across QA community.
+2018-2020 TIAA GBS
+Test Analyst
+❑ Automated manual test cases for improved efficiency.
+❑ Managed and tracked test cases in JIRA.
+❑ Maintained test scripts and resolved execution issues.
+❑Prepared weekly team status reports.
+2020-2021 FIS
+Lead Engineer Testing
+❑ Ensured service quality and integration of Alipay payment flows.
+❑ Developed and maintained microservices test cases and scripts using
+Java, RestAssured, Mutation Testing, PACT Testing, Wiremock and
+SpringBoot.
+❑ Enhanced CI/CD pipelines for reliable production releases.
+❑Monitored and visualized logs with Splunk; set up performance
+benchmarks using JMeter; integrated OpsGenie for real-time alerting.
+❑Collaborated with product managers to optimize payment method
+workflows.
+GAUTAM RAWAT Contact - +91 – 8939725506
+SDET Email – gautam.rawat123@gmail.com
+Github – https://github.com/gautam2204
+10+ Years in Automation Testing
+Skilled in Artificial Intelligence & Machine Learning
+2017-2018 Xavient Information Systems
+Software Test Engineer
+❑ As part of the BPS project for Charter Communications, supporting
+their Spectrum brand’s delivery of voice, internet, and video services
+to new and existing customers.
+❑ Automated manual test cases using Selenium within a Data Driven
+Framework to improve efficiency and consistency in quality assurance
+processes.
+❑ Maintained and updated test scripts, ensuring reliable and up-todate
+automated testing for ongoing service provisioning and
+customer support.
+2015-2017 Congnizant Technology Solutions
+Software Test Engineer
+Java, Python
+Selenium, Cucumber, WebDriver
+Junit, PyTest
+RestAssured, HttpClient
+SpringBoot, WireMock
+Machine Learning
+ Power BI
+Behavior Driven Development
+Test Driven Development
+PACT Testing, Mutation Test
+Jenkins, Maven, Gradle, GIT
+SDLC Agile
+JMeter, LambdaTest
+DominoLabs, AWS
+Splunk
+Professional Certificate
+IBM Data Science Professional
+Certificate
+[PCEP-30-02] PCEP™ – Certified
+Entry-Level Python Programmer
+AWS Certified AI Practitioner
+certification (AIF-C01)
+Certified SAFe 5 Agilist
+Education
+Master of Computer Applications
+Galgotias University (2014)
+Bachelor of Computer
+Applications H.N.B Gharwal
+University (2011)
+❑ Contributed as a QA Manual and Automation Engineer on a
+beneficiary project focused on testing various flows for Lloyd’s
+Insurance.
+❑ Creation of Test cases in ALM and doing execution.
+❑ Maintaining test automation framework creating test cases
